@@ -1,5 +1,6 @@
 #SimpleAutoScrollView
 ####效果展示
+![](https://github.com/hexiangyuan/SimpleAutoScrollView/blob/master/simple.gif)  
 
 #### 使用方法
 * 1.布局文件中引用
